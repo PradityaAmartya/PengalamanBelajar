@@ -19,3 +19,5 @@ Perkembangan Belajar Kelas Memulai Pemrograman dengan Java. (75%)
 Perkembangan Belajar Kelas Memulai Pemrograman dengan Java. (100%)
   * Berlatih dengan membuat program untuk perhitungan hal sederhana.
   * Mengerjakan ujian akhir untuk menilai kemampuan.
+
+**TERIMA KASIH**
